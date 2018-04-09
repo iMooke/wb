@@ -1,0 +1,8 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/uploads
+/storage/
+/bootstrap/cache
+.git
